@@ -6,6 +6,8 @@ The FreeMCB328P is a versatile and cost-effective microcontroller unit (MCU) des
     <img src="assets/FreeMCB328P-Preview.png" width="300px" />
 </p>
 
+> Note: FreeMCB328P is still in experimental stage.
+
 ## Key Features
 
 - **ATmega328P Microcontroller**: The FreeMCB328P utilizes the Atmel ATmega328P microcontroller, a versatile 8-bit microcontroller with a 16 MHz clock speed. It offers 32 KB of flash memory, 2 KB of SRAM, and 1 KB of EEPROM, providing ample space for code and data storage.
